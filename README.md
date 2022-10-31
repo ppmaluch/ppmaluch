@@ -14,7 +14,7 @@
 ###
 
 <br>
-<h4 align="left">-🐛 Creating bugs since 2016🤣<br>-📚 I'm currently learning about Cloud Development☁️ & Data Analysis tools🔍<br>-👯 I’m looking to collaborate with other Developers<br>-🎯Goals: Keep growing as a professional / improve my work experience<br>-🎮 I like to play video games & watch youtube 📺</h4>
+<h4 align="left">-🐛 Creating bugs since 2016🤣<br>-📚 I'm currently learning about Cloud Development☁️ & Data Analysis tools🔍<br>-👯 I’m looking to collaborate with other Developers<br>-🎯Goals: Keep growing as a professional / improve my work experience / contribute more to open source<br>-🎮 I like to play video games & watch youtube 📺</h4>
 
 ###
 <br>
