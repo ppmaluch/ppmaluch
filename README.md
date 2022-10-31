@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">In my career i have specialized in Backend development and Data Analysis, designing, enhancing and implementing scalable<br>microservices and database solutions mainly focused on REST APIs and data<br>gathering, pre-processing and monitoring.</h4>
+<h4 align="left">In my career i have specialized in Backend development and Data Analysis, designing, enhancing and implementing scalable<br>microservices and database solutions mainly focused on REST APIs and data gathering, pre-processing and monitoring.</h4>
 
 ###
 
