@@ -4,15 +4,6 @@
 
 <h4 align="left">In my career i have specialized in Backend development and Data Analysis, designing, enhancing and implementing scalable<br>microservices and database solutions mainly focused on REST APIs and data gathering, cleaning/integration and monitoring.</h4>
 
-###
-
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&username=ppmaluch" height="150" alt="stats graph"  />
-</div>
-
-###
-
 <br>
 <h4 align="left">-🐛 Creating bugs since 2016🤣<br>-📚 I'm currently learning about Cloud Development☁️ & Data Analysis tools🔍<br>-👯 I’m looking to collaborate with other Developers<br>-🎯Goals: Keep growing as a professional / improve my work experience / contribute more to open source<br>-🎮 I like to play video games & watch youtube 📺</h4>
 
